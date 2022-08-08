@@ -48,7 +48,7 @@ body {
   
   
   .parallax2 {
-    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("/guest-portal/images/hotel.jpg");
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("../guest-portal/images/hotel.jpg");
   }
   
   .parallax3 {

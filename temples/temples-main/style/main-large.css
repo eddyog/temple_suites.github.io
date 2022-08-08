@@ -50,7 +50,7 @@ body {
   }
   
   .parallax3 {
-    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("/temples/temples-main/images/costa-rica-background.jpg");
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("../images/costa-rica-background.jpg");
   }
   
   

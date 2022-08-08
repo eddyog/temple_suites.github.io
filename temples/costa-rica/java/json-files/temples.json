@@ -1,0 +1,68 @@
+{
+    "temples": [{
+        "featured": "Yes",
+        "imageSrc": "images/xela.jpg",
+        "imageSrcSmall": "images/xela-small.jpg",
+        "imageAlt": "A view of the Quetzaltenango Guatemala Temple",
+        "name": "Quetzaltenango Guatemala",
+        "description": "The Quetzaltenango Guatemala Temple is the second temple built by The Church of Jesus Christ of Latter-day Saints (LDS Church) in Guatemala. It was the fifth temple of the church in Central America. The temple is located in the western part of the city, near the Parque Zoológico Minerva. Construction of the temple was announced by church president Gordon B. Hinckley on December 16, 2006. Construction commenced following a groundbreaking ceremony on March 14, 2009. The temple open house was held from November 11–26, 2011. The temple was dedicated on December 11, 2011 by Dieter F. Uchtdorf of the church's First Presidency and was the first temple dedicated by Uchtdorf.",
+        "phoneNumber": "(502) 7728-1603",
+        "streetAddress": "9a. Calle 4-03, Zona 9 Frente a Residenciales Los Cerezos 1",
+        "cityState": "Quetzaltenango",
+        "zip": "09009",
+        "ordinanceSchedule": ["Baptisms: 5:00 AM - 8:00 PM (Walk-ins & Appointments)", "Initiatory: 6:00 AM - 8:00 PM (Walk-ins Only)", "Endowments: 1:20 - 1:40 pm (Walk-ins Only), 2:00 pm (Walk-ins & Appointments), 2:20 pm (Walk-ins Only)", "Sealings: 7:00 AM - 8:00 PM (Walk-ins & Appointments)"],
+        "services": ["Rental Clothing: Available", "Cafeteria: Available", "Distribution Center Nearby: No"],
+        "closures": ["Monday, 3 June 2019 - Monday, 17 June 2019", "Thursday, 4 July 2019", "Wednesday, 24 July 2019", "Saturday, 5 October 2019", "Wednesday, 27 November 2019 (Limited Hours)", "Thursday, 28 November 2019", "Monday, 9 December 2019 - Monday, 23 December 2019", "Tuesday, 24 December 2019", "Wednesday, 25 December 2019", "Tuesday, 31 December 2019 (Limited Hours)"]
+      },
+  
+      {
+        "featured": "No",
+        "imageSrc": "images/costa-rica.jpg",
+        "imageSrcSmall": "costa-rica-small.jpg",
+        "imageAlt": "A view of the Costa Rica Temple",
+        "name": "Costa Rica, Heredia",
+        "description": "The San José Costa Rica Temple is the 87th operating temple of The Church of Jesus Christ of Latter-day Saints (LDS Church).The church's First Presidency announced on March 17, 1999 that a temple would be built in San José, Costa Rica. The announcement of the San José Costa Rica Temple made it the first temple in Costa Rica and the second temple in Central America",
+        "phoneNumber": "(506) 2293-6681",
+        "streetAddress": "1.2 km al Oeste Del Hotel Marriott",
+        "cityState": "Heredia, Belen",
+        "zip": "40702",
+        "ordinanceSchedule": ["Baptisms: 5:00 AM - 8:00 PM (Walk-ins & Appointments)", "Initiatory: 6:00 AM - 8:00 PM (Walk-ins Only)", "Endowments: 1 PM (Walk-ins & Appointments), 3 - 4 PM (Walk-ins Only)", "Sealings: 7:00 AM - 8:00 PM (Walk-ins & Appointments)"],
+        "services": ["Rental Clothing: Available", "Cafeteria: Available", "Distribution Center Nearby: Yes"],
+        "closures": ["Monday, 2 August 2021" , "Monday, 22 November 2021"]
+      },
+  
+  
+      {
+        "featured": "No",
+        "imageSrc": "images/guatemala.jpg",
+        "imageSrcSmall": "images/guatemala-small.png",
+        "imageAlt": "A view of the Draper Temple",
+        "name": "Guatemala City",
+        "description": "The Guatemala City Guatemala Temple (formerly the Guatemala City Temple) is the 34th constructed and 32nd operating temple of The Church of Jesus Christ of Latter-day Saints (LDS Church). Located in Guatemala City, capital city of Guatemala, it was built with a modern six-spire design. In 1956, while Harold B. Lee (then a member of the Quorum of the Twelve) visited Guatemala City, he felt that it would be a center for Lamanite gatherings and predicted that a temple would be built there.",
+        "phoneNumber": "(502) 2369-3426",
+        "streetAddress": "24 Avenida 2-20, Zona 15 Vista Hermosa 1",
+        "cityState": "Guatemala City, Guatemala",
+        "zip": "01004",
+        "ordinanceSchedule": ["Baptisms: 6:00 AM - 8:15 PM (Walk-ins & Appointments)", "Initiatory: 7:00 AM - 8:15 PM (Walk-ins Only)", "Endowments: 2 - 5 PM (Walk-ins & Appointments)", "Sealings: 8:00 AM - 8:15 PM (Walk-ins & Appointments)"],
+        "services": ["Rental Clothing: Unavailable", "Cafeteria: Unavailable", "Distribution Center Nearby: Yes"],
+        "closures": ["Saturday, 1 May 2021 (Limited Operations)", "Monday, 5 July 2021 - Monday, 19 July 2021", "Wednesday, 15 September 2021 (Limited Operations)","Saturday, 2 October 2021 - Sunday, 3 October 2021","Monday, 1 November 2021 (Limited Operations)","Friday, 24 December 2021 - Saturday, 25 December 2021","Friday, 31 December 2021 - Saturday, 1 January 2022"]
+      },
+  
+      {
+        "featured": "No",
+        "imageSrc": "images/panama.jpg",
+        "imageSrcSmall": "Panama-small.jpg",
+        "imageAlt": "Panama City temple",
+        "name": "Panama Temple",
+        "description": "The Panama City Panama Temple is the 127th operating temple of The Church of Jesus Christ of Latter-day Saints (LDS Church). It was announced in 2002 and was dedicated on August 10, 2008 by church president Thomas S. Monson.[1] Located in Cárdenas, a suburb of Panama City, it is the first church temple in Panama.",
+        "phoneNumber": "TBA",
+        "streetAddress": "Calle Rufina Alfaro #3172 Hacia La Villa de Cardenas",
+        "cityState": "Corozal, Ancon, Provincia de Panamá, Panama, ",
+        "zip": "83440",
+        "ordinanceSchedule": ["PHASE 2: TEMPLE OPEN FOR LIVING ORDINANCES ONLY—Based on First Presidency direction, this temple has resumed limited operations. At this time, only living ordinances are being performed. Ordinances will be performed by appointment only and limited to members residing in a designated geographic area"],
+        "services": ["Rental Clothing: Closed", "Cafeteria: Closed", "Distribution Center Nearby: Closed"],
+        "closures": ["Monday, 16 August 2021", "Monday, 30 August 2021"]
+      }
+  
+    ]
+  }

@@ -41,7 +41,7 @@ function showSlides(n) {
   dots[slideIndex - 1].className += " active";
 }
 
-var requestURL = '../json-files/temples.json';
+var requestURL = 'json-files/temples.json';
 var request = new XMLHttpRequest();
 
 request.open('GET', requestURL);

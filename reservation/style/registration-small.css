@@ -582,32 +582,3 @@
     line-height: 1em;
  }
 
-
-
-/*********************************  HOSPITAL TEMPORAL **********************************/
-
-
- .contact-form{
-    font-size: 20px;
- }
-
- .hospital{
-    font-size: 40px;
-  }
-
-
-  .contact-form {
-   color: #012A36;
-   background-color: #c3daec;
-   padding: 25px;
-   border-radius: 8px;
-   margin-bottom: 25px;
-}
-
-header{
-   background-color: #E7E9EE;
-}
-
-footer{
-   background-color: #E7E9EE;
-}

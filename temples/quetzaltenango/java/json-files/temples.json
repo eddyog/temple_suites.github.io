@@ -1,7 +1,7 @@
 {
     "temples": [{
         "featured": "Yes",
-        "imageSrc": "images/xela.jpg",
+        "imageSrc": "/images/xela.jpg",
         "imageSrcSmall": "images/xela-small.jpg",
         "imageAlt": "A view of the Quetzaltenango Guatemala Temple",
         "name": "Quetzaltenango Guatemala",

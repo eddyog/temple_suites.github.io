@@ -34,8 +34,8 @@
   
       {
         "featured": "No",
-        "imageSrc": "images/guatemala.jpg",
-        "imageSrcSmall": "images/guatemala-small.png",
+        "imageSrc": "/images/guatemala.jpg",
+        "imageSrcSmall": "/images/guatemala-small.png",
         "imageAlt": "A view of the Draper Temple",
         "name": "Guatemala City",
         "description": "The Guatemala City Guatemala Temple (formerly the Guatemala City Temple) is the 34th constructed and 32nd operating temple of The Church of Jesus Christ of Latter-day Saints (LDS Church). Located in Guatemala City, capital city of Guatemala, it was built with a modern six-spire design. In 1956, while Harold B. Lee (then a member of the Quorum of the Twelve) visited Guatemala City, he felt that it would be a center for Lamanite gatherings and predicted that a temple would be built there.",

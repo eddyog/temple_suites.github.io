@@ -1,3 +1,3 @@
-# temple_suites.github.io
+# Temple Suites
 
 This is my final project asdfasd

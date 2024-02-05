@@ -43,12 +43,12 @@ body {
   }
   
   .parallax1 {
-    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("/guest-portal/images/fountain.jpg");
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("../images/fountain.jpg");
   }
   
   
   .parallax2 {
-    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("/guest-portal/images/hotel.jpg");
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("../images/hotel.jpg");
   }
   
   .parallax3 {
